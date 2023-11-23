@@ -7,12 +7,12 @@
 			<div class="collapse navbar-collapse" id="ftco-nav">
 				<ul class="navbar-nav ml-auto">
 					<!-- <li class="nav-item active"><a href="/" class="nav-link pl-0">Home</a></li> -->
-					<li class="nav-item"><a href="about.html" class="nav-link">О нас</a></li>
-					<li class="nav-item"><a href="teacher.html" class="nav-link">Ученики</a></li>
-					<li class="nav-item"><a href="courses.html" class="nav-link">Курсы</a></li>
-					<li class="nav-item"><a href="pricing.html" class="nav-link">Цены</a></li>
-					<li class="nav-item"><a href="blog.html" class="nav-link">Новости</a></li>
-					<li class="nav-item"><a href="contact.html" class="nav-link">Контакты</a></li>
+					<li class="nav-item"><a href="about.php" class="nav-link">О нас</a></li>
+					<li class="nav-item"><a href="students.php" class="nav-link">Ученики</a></li>
+					<li class="nav-item"><a href="courses.php" class="nav-link">Курсы</a></li>
+					<li class="nav-item"><a href="pricing.php" class="nav-link">Цены</a></li>
+					<li class="nav-item"><a href="blog.php" class="nav-link">Новости</a></li>
+					<li class="nav-item"><a href="contact.php" class="nav-link">Контакты</a></li>
 				</ul>
 			</div>
 		</div>
