@@ -5,7 +5,7 @@
         <div class="row d-flex">
           <div class="col-md-5 pr-4 d-flex topper align-items-center">
             <div class="icon bg-fifth mr-2 d-flex justify-content-center align-items-center"><span class="icon-map"></span></div>
-            <span class="text">Дербент, ул. Пушкина 66</span>
+            <span class="text">Дербент, Пушкина 66, (над скорой помощью)</span>
           </div>
 
           <div class="col-md pr-4 d-flex topper align-items-center">
