@@ -207,53 +207,118 @@
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-2">
 				<div class="col-md-8 text-center heading-section ftco-animate">
-					<h2 class="mb-4"><span>Наши</span> курсы</h2>
-					<p>Мы предлагаем несколько курсов обучения связанных с веб разработкой.</p>
+					<h2 class="mb-4"><span>Наши</span>Курсы</h2>
+					<p></p>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6 course d-lg-flex ftco-animate">
-					<div class="img" style="background-image: url(images/course-1.jpg);"></div>
-					<div class="text bg-light p-4">
-						<h3><a href="#">Arts Lesson</a></h3>
-						<p class="subheading"><span>Class time:</span> 9:00am - 10am</p>
-						<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="pricing-entry bg-light pb-4 text-center">
+						<div>
+							<h3 class="mb-3">HTML & css</h3>
+
+						</div>
+						<div class="img" style="background-image: url(images/bg_1.jpg);"></div>
+						<div class="px-4">
+							<p>Включает в себя обучение в классе, 3 раза в неделю, по 2 академических часа. Группа из 5-6 человек.</p>
+						</div>
+
 					</div>
 				</div>
-				<div class="col-md-6 course d-lg-flex ftco-animate">
-					<div class="img" style="background-image: url(images/course-2.jpg);"></div>
-					<div class="text bg-light p-4">
-						<h3><a href="#">Language Lesson</a></h3>
-						<p class="subheading"><span>Class time:</span> 9:00am - 10am</p>
-						<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="pricing-entry bg-light pb-4 text-center">
+						<div>
+							<h3 class="mb-3">js</h3>
+
+						</div>
+						<div class="img" style="background-image: url(images/bg_2.jpg);"></div>
+						<div class="px-4">
+							<p>Онлайн обучение представляет собой дистанционное обучение через Интернет в прямом эфире.</p>
+						</div>
+
 					</div>
 				</div>
-				<div class="col-md-6 course d-lg-flex ftco-animate">
-					<div class="img" style="background-image: url(images/course-3.jpg);"></div>
-					<div class="text bg-light p-4">
-						<h3><a href="#">Music Lesson</a></h3>
-						<p class="subheading"><span>Class time:</span> 9:00am - 10am</p>
-						<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="pricing-entry bg-light active pb-4 text-center">
+						<div>
+							<h3 class="mb-3">node js</h3>
+
+						</div>
+						<div class="img" style="background-image: url(images/bg_3.jpg);"></div>
+						<div class="px-4">
+							<p>Включает в себя учебу в классе из 2 или 3 человек группе, что дабавляет лучшее освоение материала.</p>
+						</div>
+
 					</div>
 				</div>
-				<div class="col-md-6 course d-lg-flex ftco-animate">
-					<div class="img" style="background-image: url(images/course-4.jpg);"></div>
-					<div class="text bg-light p-4">
-						<h3><a href="#">Sports Lesson</a></h3>
-						<p class="subheading"><span>Class time:</span> 9:00am - 10am</p>
-						<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
-					</div>
-				</div>
+
 			</div>
 		</div>
 	</section>
 
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center mb-5 pb-2">
+				<div class="col-md-8 text-center heading-section ftco-animate">
+					<h2 class="mb-4">Смены</h2>
+					<p>описание</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="pricing-entry bg-light pb-4 text-center">
+						<div>
+							<h3 class="mb-3 change">1</h3>
+							<p class="class-time">Утром</p>
+						</div>
+
+						<div class="img" style="background-image: url(images/bg_1.jpg);"></div>
+						<div class="px-4">
+							<p>Включает в себя обучение в классе, 3 раза в неделю, по 2 академических часа. Группа из 5-6 человек.</p>
+						</div>
+
+					</div>
+				</div>
+
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="pricing-entry bg-light pb-4 text-center">
+						<div>
+							<h3 class="mb-3 change">2</h3>
+							<p class="class-time">После обеда</p>
+						</div>
+
+						<div class="img" style="background-image: url(images/bg_1.jpg);"></div>
+						<div class="px-4">
+							<p>Включает в себя обучение в классе, 3 раза в неделю, по 2 академических часа. Группа из 5-6 человек.</p>
+						</div>
+
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="pricing-entry bg-light pb-4 text-center">
+						<div>
+							<h3 class="mb-3 change">3</h3>
+							<p class="class-time">Вечером</p>
+						</div>
+
+						<div class="img" style="background-image: url(images/bg_1.jpg);"></div>
+						<div class="px-4">
+							<p>Включает в себя обучение в классе, 3 раза в неделю, по 2 академических часа. Группа из 5-6 человек.</p>
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
 	<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_4.jpg);" data-stellar-background-ratio="0.5">
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-2">
 				<div class="col-md-8 text-center heading-section heading-section-black ftco-animate">
 					<h2 class="mb-4"><span>8 лет</span> опыта в IT</h2>
-					<p>Наш преподаватель имеет большой опыт работы,как в крупных фирмах(такие как Газпром), так и частных заказов с  Кавказа, России и Америки.</p>
+					<p>Наш преподаватель имеет большой опыт работы,как в крупных фирмах(такие как Газпром), так и частных заказов с Кавказа, России и Америки.</p>
 				</div>
 			</div>
 			<div class="row d-md-flex align-items-center justify-content-center">
@@ -424,7 +489,7 @@
 							</div>
 							<div class="form-group ml-md-4">
 								<select name="" id="" class="form-control">
-									<option value="">Выберите курс</option>
+									<option value="">Выберите смену</option>
 									<option value="">Art Lesson</option>
 									<option value="">Language Lesson</option>
 									<option value="">Music Lesson</option>

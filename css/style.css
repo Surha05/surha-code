@@ -377,7 +377,10 @@ mark,
 .blockquote {
   margin-bottom: 1rem;
   font-size: 1.25rem; }
-
+.change{
+  
+  color: #007bff;
+}
 .blockquote-footer {
   display: block;
   font-size: 80%;
