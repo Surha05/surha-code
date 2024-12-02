@@ -119,7 +119,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
 							<div class="img align-self-stretch" style="background-image: url(images/teacher-1.jpg);"></div>
@@ -129,17 +129,12 @@
 							<span class="position mb-2">Teacher</span>
 							<div class="faded">
 								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
+								
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
 							<div class="img align-self-stretch" style="background-image: url(images/teacher-2.jpg);"></div>
@@ -159,7 +154,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
 							<div class="img align-self-stretch" style="background-image: url(images/teacher-3.jpg);"></div>
@@ -179,14 +174,62 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-lg-3 ftco-animate">
+			</div>
+		</div>
+	</section>
+
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center mb-5 pb-2">
+				<div class="col-md-8 text-center heading-section ftco-animate">
+					<h2 class="mb-4"><span>Наши </span>Курсы</h2>
+					<p></p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/teacher-4.jpg);"></div>
+							<div class="img align-self-stretch" style="background-image: url(images/teacher-1.jpg);"></div>
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>Monshe Henderson</h3>
-							<span class="position mb-2">Science Teacher</span>
+							<h3>HTML и CSS</h3>
+							<span class="position mb-2">4 месяца</span>
+							<div class="faded">
+								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="staff">
+						<div class="img-wrap d-flex align-items-stretch">
+							<div class="img align-self-stretch" style="background-image: url(images/teacher-2.jpg);"></div>
+						</div>
+						<div class="text pt-3 text-center">
+							<h3>Javascript</h3>
+							<span class="position mb-2">5 месяцев</span>
+							<div class="faded">
+								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+								<ul class="ftco-social text-center">
+									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="staff">
+						<div class="img-wrap d-flex align-items-stretch">
+							<div class="img align-self-stretch" style="background-image: url(images/teacher-3.jpg);"></div>
+						</div>
+						<div class="text pt-3 text-center">
+							<h3>Node.js</h3>
+							<span class="position mb-2">6 месяцев</span>
 							<div class="faded">
 								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
 								<ul class="ftco-social text-center">
@@ -207,109 +250,67 @@
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-2">
 				<div class="col-md-8 text-center heading-section ftco-animate">
-					<h2 class="mb-4"><span>Наши</span>Курсы</h2>
-					<p></p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="pricing-entry bg-light pb-4 text-center">
-						<div>
-							<h3 class="mb-3">HTML & css</h3>
-
-						</div>
-						<div class="img" style="background-image: url(images/bg_1.jpg);"></div>
-						<div class="px-4">
-							<p>Включает в себя обучение в классе, 3 раза в неделю, по 2 академических часа. Группа из 5-6 человек.</p>
-						</div>
-
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="pricing-entry bg-light pb-4 text-center">
-						<div>
-							<h3 class="mb-3">js</h3>
-
-						</div>
-						<div class="img" style="background-image: url(images/bg_2.jpg);"></div>
-						<div class="px-4">
-							<p>Онлайн обучение представляет собой дистанционное обучение через Интернет в прямом эфире.</p>
-						</div>
-
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="pricing-entry bg-light active pb-4 text-center">
-						<div>
-							<h3 class="mb-3">node js</h3>
-
-						</div>
-						<div class="img" style="background-image: url(images/bg_3.jpg);"></div>
-						<div class="px-4">
-							<p>Включает в себя учебу в классе из 2 или 3 человек группе, что дабавляет лучшее освоение материала.</p>
-						</div>
-
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</section>
-
-	<section class="ftco-section">
-		<div class="container">
-			<div class="row justify-content-center mb-5 pb-2">
-				<div class="col-md-8 text-center heading-section ftco-animate">
-					<h2 class="mb-4">Смены</h2>
+					<h2 class="mb-4"><span>Смены </span>Уроков</h2>
 					<p>описание</p>
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="pricing-entry bg-light pb-4 text-center">
-						<div>
-							<h3 class="mb-3 change">1</h3>
-							<p class="class-time">Утром</p>
+					<div class="staff">
+						<div class="img-wrap d-flex align-items-stretch">
+							<div class="img align-self-stretch" style="background-image: url(images/teacher-1.jpg);"></div>
 						</div>
-
-						<div class="img" style="background-image: url(images/bg_1.jpg);"></div>
-						<div class="px-4">
-							<p>Включает в себя обучение в классе, 3 раза в неделю, по 2 академических часа. Группа из 5-6 человек.</p>
+						<div class="text pt-3 text-center">
+							<h3>Bianca Wilson</h3>
+							<span class="position mb-2">Teacher</span>
+							<div class="faded">
+								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+								
+							</div>
 						</div>
-
-					</div>
-				</div>
-
-				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="pricing-entry bg-light pb-4 text-center">
-						<div>
-							<h3 class="mb-3 change">2</h3>
-							<p class="class-time">После обеда</p>
-						</div>
-
-						<div class="img" style="background-image: url(images/bg_1.jpg);"></div>
-						<div class="px-4">
-							<p>Включает в себя обучение в классе, 3 раза в неделю, по 2 академических часа. Группа из 5-6 человек.</p>
-						</div>
-
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="pricing-entry bg-light pb-4 text-center">
-						<div>
-							<h3 class="mb-3 change">3</h3>
-							<p class="class-time">Вечером</p>
+					<div class="staff">
+						<div class="img-wrap d-flex align-items-stretch">
+							<div class="img align-self-stretch" style="background-image: url(images/teacher-2.jpg);"></div>
 						</div>
-
-						<div class="img" style="background-image: url(images/bg_1.jpg);"></div>
-						<div class="px-4">
-							<p>Включает в себя обучение в классе, 3 раза в неделю, по 2 академических часа. Группа из 5-6 человек.</p>
+						<div class="text pt-3 text-center">
+							<h3>Mitch Parker</h3>
+							<span class="position mb-2">English Teacher</span>
+							<div class="faded">
+								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+								<ul class="ftco-social text-center">
+									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+								</ul>
+							</div>
 						</div>
-
 					</div>
 				</div>
-
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="staff">
+						<div class="img-wrap d-flex align-items-stretch">
+							<div class="img align-self-stretch" style="background-image: url(images/teacher-3.jpg);"></div>
+						</div>
+						<div class="text pt-3 text-center">
+							<h3>Stella Smith</h3>
+							<span class="position mb-2">Art Teacher</span>
+							<div class="faded">
+								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+								<ul class="ftco-social text-center">
+									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>
