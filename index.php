@@ -114,11 +114,31 @@
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-2">
 				<div class="col-md-8 text-center heading-section ftco-animate">
-					<h2 class="mb-4"><span>Certified</span> Teachers</h2>
-					<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+					<h2 class="mb-4"><span>Наш</span> Преподаватель</h2>
+					<p></p>
 				</div>
 			</div>
 			<div class="row">
+				<div class="col-md-6 col-lg-4 ftco-animate">
+					<div class="staff">
+						<div class="img-wrap d-flex align-items-stretch">
+							<div class="img align-self-stretch" style="background-image: url(images/teacher-1.jpg);"></div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-8 ftco-animate">
+					<div class="staff">
+						<div class="text pt-3">
+							<h3>Сурхаев Руслан</h3>
+							<span class="position mb-2">Преподаватель</span>
+							<div class="faded">
+								<p>Опытный преподаватель программирования с более чем 8-летним стажем работы в сфере IT. Обладает знаниями в различных языках программирования (HTML, CSS, Javascript, Node.js), а также в разработке сайтов и веб-приложений. Умеет доступно объяснять сложные технические концепции и мотивирует студентов к самостоятельному изучению и практике.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- <div class="row">
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
@@ -174,7 +194,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</section>
 
@@ -190,55 +210,47 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/teacher-1.jpg);"></div>
+							<div class="img align-self-stretch" style="background-image: url(images/course/html-css.jpg);"></div>
 						</div>
 						<div class="text pt-3 text-center">
 							<h3>HTML и CSS</h3>
 							<span class="position mb-2">4 месяца</span>
 							<div class="faded">
-								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-								
+								<p>Любой веб-разработчик начинает свой путь с языков HTML и CSS. Вместе HTML и CSS образуют основу большинства современных веб-сайтов, позволяя создавать привлекательные и функциональные интерфейсы.</p>
 							</div>
+							<p class="button text-center"><a href="#" class="btn btn-primary px-4 py-3">Записаться</a></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/teacher-2.jpg);"></div>
+							<div class="img align-self-stretch" style="background-image: url(images/course/js.jpg);"></div>
 						</div>
 						<div class="text pt-3 text-center">
 							<h3>Javascript</h3>
 							<span class="position mb-2">5 месяцев</span>
 							<div class="faded">
-								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
+								<p>JavaScript – это язык программирования, который широко используется для добавления интерактивности на веб-страницах. JavaScript является одним из ключевых языков для веб-разработки.
+								</p>
 							</div>
+							<p class="button text-center"><a href="#" class="btn btn-secondary px-4 py-3">Записаться</a></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/teacher-3.jpg);"></div>
+							<div class="img align-self-stretch" style="background-image: url(images/course/node.jpg);"></div>
 						</div>
 						<div class="text pt-3 text-center">
 							<h3>Node.js</h3>
 							<span class="position mb-2">6 месяцев</span>
 							<div class="faded">
-								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
+								<p>Node.js – это среда выполнения JavaScript-кода на сервере. Она позволяет использовать JavaScript для написания серверных приложений, обеспечивая возможность создания высокопроизводительных и масштабируемых сетевых сервисов.
+								</p>
 							</div>
+							<p class="button text-center"><a href="#" class="btn btn-tertiary px-4 py-3">Записаться</a></p>
 						</div>
 					</div>
 				</div>
@@ -250,8 +262,8 @@
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-2">
 				<div class="col-md-8 text-center heading-section ftco-animate">
-					<h2 class="mb-4"><span>Смены </span>Уроков</h2>
-					<p>описание</p>
+					<h2 class="mb-4"><span>Расписание </span>Занятий</h2>
+					<p>Мы предлагаем гибкий график расписаний для вашего удобства.</p>
 				</div>
 			</div>
 
@@ -259,55 +271,48 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/teacher-1.jpg);"></div>
+							<div class="img align-self-stretch" style="background-image: url(images/smena/1.jpg);"></div>
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>Bianca Wilson</h3>
-							<span class="position mb-2">Teacher</span>
+							<h3>1 смена</h3>
+							<span class="position mb-2">до обеда</span>
 							<div class="faded">
-								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-								
+								<p>С 9 до 10:20</p>
+								<p>Подойдет всем, кто учится или занят после обеда.</p>
 							</div>
+							<p class="button text-center"><a href="#" class="btn btn-primary px-4 py-3">Записаться</a></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/teacher-2.jpg);"></div>
+							<div class="img align-self-stretch" style="background-image: url(images/smena/2.jpg);"></div>
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>Mitch Parker</h3>
-							<span class="position mb-2">English Teacher</span>
+							<h3>2 смена</h3>
+							<span class="position mb-2">после обеда</span>
 							<div class="faded">
-								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
+								<p>С 14:40 до 16</p>
+								<p>Подойдет всем, кто учится или занят до обеда и вечером.</p>
 							</div>
+							<p class="button text-center"><a href="#" class="btn btn-secondary px-4 py-3">Записаться</a></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/teacher-3.jpg);"></div>
+							<div class="img align-self-stretch" style="background-image: url(images/smena/3.jpg);"></div>
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>Stella Smith</h3>
-							<span class="position mb-2">Art Teacher</span>
+							<h3>3 смена</h3>
+							<span class="position mb-2">вечером</span>
 							<div class="faded">
-								<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-								<ul class="ftco-social text-center">
-									<li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-									<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-								</ul>
+								<p>С 16 до 17:20</p>
+								<p>Подойдет всем, кто учится или занят утром и после обеда.</p>
 							</div>
+							<p class="button text-center"><a href="#" class="btn btn-tertiary px-4 py-3">Записаться</a></p>
 						</div>
 					</div>
 				</div>
@@ -371,7 +376,7 @@
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-2">
 				<div class="col-md-8 text-center heading-section ftco-animate">
-					<h2 class="mb-4"><span>Что родители</span> Говорят о нас</h2>
+					<h2 class="mb-4"><span>Что о нас</span> Говорят</h2>
 					<p>Почитайте реальные отзывы тут и на нашем инстаграм канале.</p>
 				</div>
 			</div>
@@ -380,71 +385,42 @@
 					<div class="carousel-testimony owl-carousel">
 						<div class="item">
 							<div class="testimony-wrap d-flex">
-								<div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
+								<div class="user-img mr-4" style="background-image: url(images/feedback/Иса.jpg)">
 								</div>
 								<div class="text ml-2 bg-light">
 									<span class="quote d-flex align-items-center justify-content-center">
 										<i class="icon-quote-left"></i>
 									</span>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-									<p class="name">Racky Henderson</p>
-									<span class="position">Father</span>
+									<p>Добрый вечер. Иса в восторге. Тоже очень капризный,его трудно зацепить чем то новым. Сказал будет ходить с удовольствием.</p>
+									<p class="name">Мама Исы</p>
+									<!-- <span class="position">Мама Исы</span> -->
 								</div>
 							</div>
 						</div>
 						<div class="item">
 							<div class="testimony-wrap d-flex">
-								<div class="user-img mr-4" style="background-image: url(images/teacher-2.jpg)">
+								<div class="user-img mr-4" style="background-image: url(images/feedback/Курбан.jpg)">
 								</div>
 								<div class="text ml-2 bg-light">
 									<span class="quote d-flex align-items-center justify-content-center">
 										<i class="icon-quote-left"></i>
 									</span>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-									<p class="name">Henry Dee</p>
-									<span class="position">Mother</span>
+									<p>Оставлю отзыв от Курбана. Он был восхищен в первую очередь вами, как учителем, во вторую всем тем, чему вы научили сегодня. А значит, мы не ошиблись с выбором. Благодарим.</p>
+									<p class="name">Мама Курбана</p>
+									<!-- <span class="position">Mother</span> -->
 								</div>
 							</div>
 						</div>
 						<div class="item">
 							<div class="testimony-wrap d-flex">
-								<div class="user-img mr-4" style="background-image: url(images/teacher-3.jpg)">
+								<div class="user-img mr-4" style="background-image: url(images/feedback/Мухаммад.jpg)">
 								</div>
 								<div class="text ml-2 bg-light">
 									<span class="quote d-flex align-items-center justify-content-center">
 										<i class="icon-quote-left"></i>
 									</span>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-									<p class="name">Mark Huff</p>
-									<span class="position">Mother</span>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimony-wrap d-flex">
-								<div class="user-img mr-4" style="background-image: url(images/teacher-4.jpg)">
-								</div>
-								<div class="text ml-2 bg-light">
-									<span class="quote d-flex align-items-center justify-content-center">
-										<i class="icon-quote-left"></i>
-									</span>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-									<p class="name">Rodel Golez</p>
-									<span class="position">Mother</span>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimony-wrap d-flex">
-								<div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
-								</div>
-								<div class="text ml-2 bg-light">
-									<span class="quote d-flex align-items-center justify-content-center">
-										<i class="icon-quote-left"></i>
-									</span>
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-									<p class="name">Ken Bosh</p>
-									<span class="position">Mother</span>
+									<p>Ас Саламу алейкум, меня зовут Мухаммад. Я прошел шестимесячный курс в школе программирования Surha-Code. Научился использовать по назначению шаблоны, писать веб-сайты и компьютерную игру. Узнал много интересного и нового. Я остался доволен полученными знаниями.</p>
+									<p class="name">Мухаммад</p>
 								</div>
 							</div>
 						</div>
@@ -570,66 +546,58 @@
 			<div class="row">
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
-						<a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_1.jpg');">
+						<a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/news/place-2.jpg');">
 							<div class="meta-date text-center p-2">
-								<span class="day">27</span>
-								<span class="mos">January</span>
-								<span class="yr">2019</span>
+								<span class="day">1</span>
+								<span class="mos">Сентября</span>
+								<span class="yr">2024</span>
 							</div>
 						</a>
 						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Skills To Develop Your Child Memory</a></h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<h3 class="heading"><a href="#">Новый учебный класс</a></h3>
+							<p>Переехали на новый адрес по ул. Пушкина 66.</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
-								<p class="ml-auto mb-0">
+								<p class="mb-0"><a href="#" class="btn btn-secondary">Подробнее</a></p>
+								<!-- <p class="ml-auto mb-0">
 									<a href="#" class="mr-2">Admin</a>
 									<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
-								</p>
+								</p> -->
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
-						<a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_2.jpg');">
+						<a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/news/node.jpg');">
 							<div class="meta-date text-center p-2">
-								<span class="day">27</span>
-								<span class="mos">January</span>
-								<span class="yr">2019</span>
+								<span class="day">1</span>
+								<span class="mos">Сентября</span>
+								<span class="yr">2024</span>
 							</div>
 						</a>
 						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Skills To Develop Your Child Memory</a></h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<h3 class="heading"><a href="#">Новый курс по Node.js</a></h3>
+							<p>Запустили новый курс по технологии Node.js.</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
-								<p class="ml-auto mb-0">
-									<a href="#" class="mr-2">Admin</a>
-									<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
-								</p>
+							<p class="mb-0"><a href="#" class="btn btn-secondary">Подробнее</a></p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="blog-entry">
-						<a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_3.jpg');">
+						<a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/news/site.jpg');">
 							<div class="meta-date text-center p-2">
-								<span class="day">27</span>
-								<span class="mos">January</span>
-								<span class="yr">2019</span>
+								<span class="day">10</span>
+								<span class="mos">Декабря</span>
+								<span class="yr">2024</span>
 							</div>
 						</a>
 						<div class="text bg-white p-4">
-							<h3 class="heading"><a href="#">Skills To Develop Your Child Memory</a></h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<h3 class="heading"><a href="#">Запуск сайта</a></h3>
+							<p>Создали сайт чтоб вам легче было найти нас.</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
-								<p class="ml-auto mb-0">
-									<a href="#" class="mr-2">Admin</a>
-									<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
-								</p>
+							<p class="mb-0"><a href="#" class="btn btn-secondary">Подробнее</a></p>
 							</div>
 						</div>
 					</div>
