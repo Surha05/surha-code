@@ -12,7 +12,7 @@
 					<div class="carousel-testimony owl-carousel">
 						<div class="item">
 							<div class="testimony-wrap d-flex">
-								<div class="user-img mr-4" style="background-image: url(images/feedback/Иса.jpg)">
+								<div class="user-img mr-4" style="background-image: url(/images/feedback/Иса.jpg)">
 								</div>
 								<div class="text ml-2 bg-light">
 									<span class="quote d-flex align-items-center justify-content-center">

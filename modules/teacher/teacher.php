@@ -10,7 +10,7 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/teacher-1.jpg);"></div>
+							<div class="img align-self-stretch" style="background-image: url(/images/teacher/surha.jpg);"></div>
 						</div>
 					</div>
 				</div>
