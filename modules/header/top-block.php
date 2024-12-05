@@ -29,7 +29,7 @@
           </div>
           <div class="col-lg-2 col-md-6 pr-4 d-flex topper align-items-center">
 
-            <div class="icon bg-danger mr-2 d-flex justify-content-center align-items-center"><span class="icon-instagram"></span></div><a href="https://t.me/Surha05" target="_blank">
+            <div class="icon bg-danger mr-2 d-flex justify-content-center align-items-center"><span class="icon-instagram"></span></div><a href="https://www.instagram.com/surha_code/" target="_blank">
               <span class="text">Instagram</span>
             </a>
           </div>

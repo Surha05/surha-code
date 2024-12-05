@@ -1,5 +1,5 @@
 <head>
-  <title>Surha-code - школа программирования в Дербенте</title>
+  <title>Школа программирования Surha-code</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="robots" content="noindex" />
@@ -21,4 +21,5 @@
   <link rel="stylesheet" href="css/flaticon.css">
   <link rel="stylesheet" href="css/icomoon.css">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="/css/surha.css">
 </head>

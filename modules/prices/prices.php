@@ -11,7 +11,7 @@
 					<div class="pricing-entry bg-light pb-4 text-center">
 						<div>
 							<h3 class="mb-3">Занятия в группе</h3>
-							<p><span class="price">7000</span> <span class="per">/ месяц</span></p>
+							<p><span class="price">7000</span> <span class="per">&#8381; / месяц</span></p>
 						</div>
 						<div class="img" style="background-image: url(/images/slider/slide-01.jpg);"></div>
 						<div class="px-4">
@@ -24,7 +24,7 @@
 					<div class="pricing-entry bg-light pb-4 text-center">
 						<div>
 							<h3 class="mb-3">Онлайн</h3>
-							<p><span class="price">5000</span> <span class="per">/ месяц</span></p>
+							<p><span class="price">5000</span> <span class="per">&#8381; / месяц</span></p>
 						</div>
 						<div class="img" style="background-image: url(/images/slider/slide-02.jpg);"></div>
 						<div class="px-4">
@@ -37,7 +37,7 @@
 					<div class="pricing-entry bg-light active pb-4 text-center">
 						<div>
 							<h3 class="mb-3">Индивидуальное</h3>
-							<p><span class="price">от 10000</span> <span class="per">/ месяц</span></p>
+							<p><span class="price">от 10.000</span> <span class="per">&#8381; / месяц</span></p>
 						</div>
 						<div class="img" style="background-image: url(/images/bg/bg-01.jpg);"></div>
 						<div class="px-4">

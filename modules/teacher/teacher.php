@@ -8,11 +8,13 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6 col-lg-4 ftco-animate">
-					<div class="staff">
-						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(/images/teacher/surha.jpg);"></div>
-						</div>
-					</div>
+				<img class="img-block" src="/images/teacher/surha2.jpg" alt="преподаватель школы программирования Surha-Code">
+					<!-- <div class="staff">
+						<div class="img-wrap d-flex align-items-stretch"> -->
+							
+							<!-- <div class="img align-self-stretch" style="background-image: url(/images/teacher/surha.jpg);"></div> -->
+						<!-- </div>
+					</div> -->
 				</div>
 				<div class="col-md-6 col-lg-8 ftco-animate">
 					<div class="staff">
@@ -20,7 +22,7 @@
 							<h3>Сурхаев Руслан</h3>
 							<span class="position mb-2">Преподаватель</span>
 							<div class="faded">
-								<p>Опытный преподаватель программирования с более чем 8-летним стажем работы в сфере IT. Обладает знаниями в различных языках программирования (HTML, CSS, Javascript, Node.js), а также в разработке сайтов и веб-приложений. Умеет доступно объяснять сложные технические концепции и мотивирует студентов к самостоятельному изучению и практике.</p>
+								<p>Опытный преподаватель программирования с более чем 8-летним стажем работы в сфере IT. Обладает знаниями в различных языках программирования (HTML, CSS, Javascript, Node.js), а также в разработке сайтов, браузерных игр и веб-приложений. Умеет доступно объяснять сложные технические концепции и мотивирует студентов к самостоятельному изучению и практике.</p>
 							</div>
 						</div>
 					</div>
