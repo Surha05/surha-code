@@ -20,7 +20,7 @@
 							<h3 class="heading"><a href="#">Новый учебный класс</a></h3>
 							<p>Переехали на новый адрес по ул. Пушкина 66.</p>
 							<div class="d-flex align-items-center mt-4">
-								<p class="mb-0"><a href="#" class="btn btn-secondary">Подробнее</a></p>
+								<p class="mb-0"><a href="/blog-single.php" class="btn btn-secondary">Читать</a></p>
 								<!-- <p class="ml-auto mb-0">
 									<a href="#" class="mr-2">Admin</a>
 									<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
@@ -42,7 +42,7 @@
 							<h3 class="heading"><a href="#">Новый курс по Node.js</a></h3>
 							<p>Запустили новый курс по технологии Node.js.</p>
 							<div class="d-flex align-items-center mt-4">
-							<p class="mb-0"><a href="#" class="btn btn-secondary">Подробнее</a></p>
+							<p class="mb-0"><a href="/blog-single.php" class="btn btn-secondary">Читать</a></p>
 							</div>
 						</div>
 					</div>
@@ -60,11 +60,12 @@
 							<h3 class="heading"><a href="#">Запуск сайта</a></h3>
 							<p>Создали сайт чтоб вам легче было найти нас.</p>
 							<div class="d-flex align-items-center mt-4">
-							<p class="mb-0"><a href="#" class="btn btn-secondary">Подробнее</a></p>
+							<p class="mb-0"><a href="/blog-single.php" class="btn btn-secondary">Читать</a></p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+			<a href="/blog.php" class="mr-2">Смотреть все новости</a>
 		</div>
 	</section>

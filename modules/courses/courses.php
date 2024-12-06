@@ -19,7 +19,7 @@
 							<div class="faded">
 								<p>Любой веб-разработчик начинает свой путь с языков HTML и CSS. Вместе HTML и CSS образуют основу большинства современных веб-сайтов, позволяя создавать привлекательные и функциональные интерфейсы.</p>
 							</div>
-							<p class="button text-center"><a href="#" class="btn btn-primary px-4 py-3">Записаться</a></p>
+							<p class="button text-center"><a href="/courses.php" class="btn btn-primary px-4 py-3">Подробнее</a></p>
 						</div>
 					</div>
 				</div>
@@ -35,7 +35,7 @@
 								<p>JavaScript – это язык программирования, который широко используется для добавления интерактивности на веб-страницах. JavaScript является одним из ключевых языков для веб-разработки.
 								</p>
 							</div>
-							<p class="button text-center"><a href="#" class="btn btn-secondary px-4 py-3">Записаться</a></p>
+							<p class="button text-center"><a href="/courses.php" class="btn btn-secondary px-4 py-3">Подробнее</a></p>
 						</div>
 					</div>
 				</div>
@@ -51,7 +51,7 @@
 								<p>Node.js – это среда выполнения JavaScript-кода на сервере. Она позволяет использовать JavaScript для написания серверных приложений, обеспечивая возможность создания высокопроизводительных и масштабируемых сетевых сервисов.
 								</p>
 							</div>
-							<p class="button text-center"><a href="#" class="btn btn-tertiary px-4 py-3">Записаться</a></p>
+							<p class="button text-center"><a href="/courses.php" class="btn btn-tertiary px-4 py-3">Подробнее</a></p>
 						</div>
 					</div>
 				</div>

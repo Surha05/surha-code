@@ -11,10 +11,11 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/smena/1.jpg);"></div>
+							<img class="img-block" src="/images/smena/1.jpg" alt="утренняя смена Surha-Code">
+							<!-- <div class="img align-self-stretch" style="background-image: url(images/smena/1.jpg);"></div> -->
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>1 смена</h3>
+							<h3>Утром</h3>
 							<span class="position mb-2">до обеда</span>
 							<div class="faded">
 								<p>С 9 до 10:20</p>
@@ -27,10 +28,11 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/smena/2.jpg);"></div>
+							<img class="img-block" src="/images/smena/2.jpg" alt="обеденная смена Surha-Code">
+							<!-- <div class="img align-self-stretch" style="background-image: url(images/smena/2.jpg);"></div> -->
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>2 смена</h3>
+							<h3>Обеденная</h3>
 							<span class="position mb-2">после обеда</span>
 							<div class="faded">
 								<p>С 14:40 до 16</p>
@@ -43,10 +45,11 @@
 				<div class="col-md-6 col-lg-4 ftco-animate">
 					<div class="staff">
 						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img align-self-stretch" style="background-image: url(images/smena/3.jpg);"></div>
+							<img class="img-block" src="/images/smena/3.jpg" alt="вечерняя смена Surha-Code">
+							<!-- <div class="img align-self-stretch" style="background-image: url(images/smena/3.jpg);"></div> -->
 						</div>
 						<div class="text pt-3 text-center">
-							<h3>3 смена</h3>
+							<h3>Вечером</h3>
 							<span class="position mb-2">вечером</span>
 							<div class="faded">
 								<p>С 16 до 17:20</p>

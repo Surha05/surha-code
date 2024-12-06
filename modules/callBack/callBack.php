@@ -22,7 +22,7 @@
                 <div class="select-wrap">
                   <div class="icon"><span class="ion-ios-arrow-down"></span></div>
                   <select class="form-control">
-                    <option value="">Выберите курс</option>
+                    <option value="">Курс</option>
                     <option value="">HTML и CSS</option>
                     <option value="">Javacript</option>
                     <option value="">Node.js</option>
@@ -35,16 +35,36 @@
                 <div class="select-wrap">
                   <div class="icon"><span class="ion-ios-arrow-down"></span></div>
                   <select class="form-control">
-                    <option value="">Выберите смену</option>
-                    <option value="">1 смена</option>
-                    <option value="">2 смена</option>
-                    <option value="">3 смена</option>
+                    <option value="">Смена</option>
+                    <option value="">Утренняя смена</option>
+                    <option value="">Обеденная смена</option>
+                    <option value="">Вечерняя смена</option>
                   </select>
                 </div>
               </div>
             </div>
           </div>
-
+          <div class="d-md-flex">
+            <div class="form-group">
+              <div class="form-field">
+                <div class="select-wrap">
+                  <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                  <select class="form-control">
+                    <option value="">Форма обучения</option>
+                    <option value="">В группе</option>
+                    <option value="">Индивидуальное</option>
+                    <option value="">Онлайн</option>
+                    <option value="">Индивидуальное Онлайн</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="d-md-flex">
+            <div class="form-group">
+              <textarea class="form-control" placeholder="Комментарий"></textarea>
+            </div>
+          </div>
         </form>
       </div>
     </div>

@@ -4,8 +4,8 @@
 
 <body>
 	<?php
-	include 'modules/header/top-block.php';
 	include 'modules/header/nav.php';
+	include 'modules/header/top-block.php';
 	include 'modules/slider/slider.php';
 	include 'modules/advantages/advantages.php';
 	include 'modules/welcome/welcome.php';
