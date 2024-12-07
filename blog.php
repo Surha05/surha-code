@@ -2,6 +2,8 @@
 <html lang="en">
   <head>
   <?php
+  $title__block = 'Наши Новости';
+	$bread__crumb = 'новости';
   include 'modules/head/head.php';
   include 'modules/header/top-block.php';
   include 'modules/header/nav.php';

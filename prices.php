@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php
+  $title__block = 'Наши Цены';
+  $bread__crumb = 'цены';
   include 'modules/head/head.php';
   include 'modules/header/top-block.php';
   include 'modules/header/nav.php';
