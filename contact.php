@@ -8,6 +8,7 @@
   include 'modules/header/nav.php';
   include 'modules/title/title.php';
   include 'modules/contact/contact.php';
+  include 'modules/map/map.php';
   include 'modules/footer/footer.php';
 ?>
   

@@ -8,7 +8,7 @@
   include 'modules/header/top-block.php';
   include 'modules/header/nav.php';
   include 'modules/title/title.php';
-  include 'modules/news/news.php';
+  include 'modules/news/all-news.php';
   include 'modules/footer/footer.php';
   ?>
   <!-- loader -->

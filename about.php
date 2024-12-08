@@ -7,7 +7,7 @@
   include 'modules/header/top-block.php';
   include 'modules/header/nav.php';
   include 'modules/title/title.php';
-  include 'modules/welcome/welcome.php';
+  include 'modules/welcome/welcome-2.php';
   include 'modules/footer/footer.php';
 ?>
 
