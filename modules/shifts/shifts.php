@@ -21,7 +21,7 @@
 								<p>С 9 до 10:20</p>
 								<p>Подойдет всем, кто учится или занят после обеда.</p>
 							</div>
-							<p class="button text-center"><a href="#" class="btn btn-primary px-4 py-3">Записаться</a></p>
+							<p class="button text-center"><a href="#" class="open-popup btn btn-primary px-4 py-3">Записаться</a></p>
 						</div>
 					</div>
 				</div>
@@ -38,7 +38,7 @@
 								<p>С 14:40 до 16</p>
 								<p>Подойдет всем, кто учится или занят до обеда и вечером.</p>
 							</div>
-							<p class="button text-center"><a href="#" class="btn btn-secondary px-4 py-3">Записаться</a></p>
+							<p class="button text-center"><a href="#" class="open-popup btn btn-secondary px-4 py-3">Записаться</a></p>
 						</div>
 					</div>
 				</div>
@@ -55,7 +55,7 @@
 								<p>С 16 до 17:20</p>
 								<p>Подойдет всем, кто учится или занят утром и после обеда.</p>
 							</div>
-							<p class="button text-center"><a href="#" class="btn btn-tertiary px-4 py-3">Записаться</a></p>
+							<p class="button text-center"><a href="#" class="open-popup btn btn-tertiary px-4 py-3">Записаться</a></p>
 						</div>
 					</div>
 				</div>

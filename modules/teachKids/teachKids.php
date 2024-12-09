@@ -7,7 +7,7 @@
 					<p class="mb-0">Современный мир невозможно представить без цифровых технологий . Отправив своего ребенка в нашу школу, он будет двигаться в ногу со временем, и научиться создавать сайты, игры и приложения.</p>
 				</div>
 				<div class="col-md-3 d-flex align-items-center">
-					<p class="mb-0"><a href="#" class="btn btn-secondary px-4 py-3">Выбрать курс</a></p>
+					<p class="mb-0"><a href="#" class="open-popup btn btn-secondary px-4 py-3">Выбрать курс</a></p>
 				</div>
 			</div>
 		</div>

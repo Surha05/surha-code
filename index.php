@@ -20,6 +20,7 @@
 	include 'modules/news/news.php';
 	include 'modules/bottomBlock/bottomBlock.php';
 	include 'modules/footer/footer.php';
+	include 'modules/popup/callback.php';
 	?>
 
 
@@ -67,6 +68,7 @@
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
 	<script src="js/google-map.js"></script>
 	<script src="js/main.js"></script>
+	<script src="js/surha.js"></script>
 
 </body>
 
