@@ -6,7 +6,7 @@
 						<h2 class="ftco-heading-2">Контакты</h2>
 						<div class="block-23 mb-3">
 							<ul>
-								<li><span class="icon icon-map-marker"></span><span class="text">Дербент, Пушкина 66</span></li>
+								<li><span class="icon icon-map-marker"></span><span class="text">Дербент, Пушкина 68</span></li>
 								<li><a href="tel:89224338833"><span class="icon icon-phone"></span><span class="text">8(922)433-88-33</span></a></li>
 								<li><a href="https://wa.me/79224338833"><span class="icon icon-whatsapp"></span><span class="text">WhatsApp</span></a></li>
 								<li><a href="https://t.me/Surha05"><span class="icon icon-telegram"></span><span class="text">Telegram</span></a></li>

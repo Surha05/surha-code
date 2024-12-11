@@ -1,30 +1,30 @@
-<section class="ftco-section contact-section">
-      <div class="container">
-        <div class="row d-flex mb-5 contact-info">
-          <div class="col-md-3 d-flex">
-          	<div class="bg-light align-self-stretch box p-4 text-center">
-          		<h3 class="mb-4">Address</h3>
-	            <p>198 West 21th Street, Suite 721 New York NY 10016</p>
-	          </div>
-          </div>
-          <div class="col-md-3 d-flex">
-          	<div class="bg-light align-self-stretch box p-4 text-center">
-          		<h3 class="mb-4">Contact Number</h3>
-	            <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
-	          </div>
-          </div>
-          <div class="col-md-3 d-flex">
-          	<div class="bg-light align-self-stretch box p-4 text-center">
-          		<h3 class="mb-4">Email Address</h3>
-	            <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
-	          </div>
-          </div>
-          <div class="col-md-3 d-flex">
-          	<div class="bg-light align-self-stretch box p-4 text-center">
-          		<h3 class="mb-4">Website</h3>
-	            <p><a href="#">yoursite.com</a></p>
-	          </div>
-          </div>
-        </div>
-      </div>
-    </section>
+<section class="contact-section mt-5">
+	<div class="container">
+		<div class="row d-flex mb-5 contact-info">
+			<div class="col-md-3 col-sm-6 d-flex">
+				<div class="bg-light align-self-stretch box p-4 text-center">
+					<h3 class="mb-4">Адрес</h3>
+					<p>г. Дербент, ул. Пушкина 68</p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 d-flex">
+				<div class="bg-light align-self-stretch box p-4 text-center">
+					<h3 class="mb-4">Телефон</h3>
+					<p><a href="tel:89224338833" target="_blank">8(922)433-88-33</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 d-flex">
+				<div class="bg-light align-self-stretch box p-4 text-center">
+					<h3 class="mb-4">WhatsApp</h3>
+					<p><a href="https://wa.me/79224338833" target="_blank">8(922)433-88-33</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 d-flex">
+				<div class="bg-light align-self-stretch box p-4 text-center">
+					<h3 class="mb-4">Instagram</h3>
+					<p><a href="https://www.instagram.com/surha_code/" target="_blank">@Surha_cade</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

@@ -18,7 +18,7 @@
 						</a>
 						<div class="text bg-white p-4">
 							<h3 class="heading"><a href="#">Новый учебный класс</a></h3>
-							<p>Переехали на новый адрес по ул. Пушкина 66.</p>
+							<p>Переехали на новый адрес по ул. Пушкина 68.</p>
 							<div class="d-flex align-items-center mt-4">
 								<p class="mb-0"><a href="/blog-single.php" class="btn btn-secondary">Читать</a></p>
 								<!-- <p class="ml-auto mb-0">
