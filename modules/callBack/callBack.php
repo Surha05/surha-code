@@ -65,6 +65,7 @@
               <textarea class="form-control" placeholder="Комментарий"></textarea>
             </div>
           </div>
+          <p class="button text-center"><a href="/prices.php" class="btn btn-secondary px-4 py-3">Отправить</a></p>
         </form>
       </div>
     </div>
