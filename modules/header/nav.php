@@ -6,12 +6,13 @@
 		</button>
 		<div class="collapse navbar-collapse" id="ftco-nav">
 			<ul class="navbar-nav ml-auto">
-				<li class="nav-item active"><a href="/about.php" class="nav-link pl-0">О нас</a></li>
-				<li class="nav-item"><a href="/students.php" class="nav-link">Ученики</a></li>
-				<li class="nav-item"><a href="/courses.php" class="nav-link">Курсы</a></li>
-				<li class="nav-item"><a href="/prices.php" class="nav-link">Цены</a></li>
-				<li class="nav-item"><a href="/blog.php" class="nav-link">Новости</a></li>
-				<li class="nav-item"><a href="/contact.php" class="nav-link">Контакты</a></li>
+				<li class="nav-item <?php if($title_page == 'Главная') echo 'active' ?>"><a href="/" class="nav-link pl-0">Главная</a></li>
+				<li class="nav-item <?php if($title_page == 'О нас') echo 'active' ?>"><a href="/about.php" class="nav-link pl-0">О нас</a></li>
+				<li class="nav-item <?php if($title_page == 'Ученики') echo 'active' ?>"><a href="/students.php" class="nav-link">Ученики</a></li>
+				<li class="nav-item <?php if($title_page == 'Курсы') echo 'active' ?>"><a href="/courses.php" class="nav-link">Курсы</a></li>
+				<li class="nav-item <?php if($title_page == 'Цены') echo 'active' ?>"><a href="/prices.php" class="nav-link">Цены</a></li>
+				<li class="nav-item <?php if($title_page == 'Новости') echo 'active' ?>"><a href="/blog.php" class="nav-link">Новости</a></li>
+				<li class="nav-item <?php if($title_page == 'Контакты') echo 'active' ?>"><a href="/contact.php" class="nav-link">Контакты</a></li>
 			</ul>
 		</div>
 	</div>

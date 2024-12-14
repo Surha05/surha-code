@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php
+  $title_page = 'Контакты';
   $title__block = 'Контакты';
   $bread__crumb = 'контакты';
   include 'modules/head/head.php';

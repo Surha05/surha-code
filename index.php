@@ -4,6 +4,7 @@
 
 <body>
 	<?php
+	$title_page = 'Главная';
 	include 'modules/header/nav.php';
 	include 'modules/header/top-block.php';
 	include 'modules/slider/slider.php';

@@ -2,6 +2,7 @@
 <html lang="ru">
   <head>
   <?php
+  $title_page = 'Новости';
   $title__block = 'Наши Новости';
 	$bread__crumb = 'новости';
   include 'modules/head/head.php';

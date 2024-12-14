@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
   <?php
+  $title_page = 'Курсы';
   $title__block = 'Наши Курсы';
   $bread__crumb = 'Курсы';
   include 'modules/head/head.php';

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php
+  $title_page = 'Ученики';
 	$title__block = 'Наши Ученики';
 	$bread__crumb = 'ученики';
   include 'modules/head/head.php';
