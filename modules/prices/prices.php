@@ -26,7 +26,7 @@
 					<div class="pricing-entry bg-light pb-4 text-center">
 						<div>
 							<h3 class="mb-3">Онлайн</h3>
-							<p><span class="price">5000</span> <span class="per">&#8381; / месяц</span></p>
+							<p><span class="price">7000</span> <span class="per">&#8381; / месяц</span></p>
 						</div>
 						<div >
 							<img src="/images/slider/slide-02.jpg" alt="Индивидуальное онлайн занятия в Surha-Code" class="img-block">

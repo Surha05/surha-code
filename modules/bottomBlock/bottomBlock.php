@@ -31,7 +31,7 @@
 			</div>
 		</div>
 		<div class="container py-4">
-			<a href="/blog.php" class="mr-2">Смотреть всех студентов</a>
+			<a href="/students.php" class="btn btn-primary">Смотреть всех студентов</a>
 		</div>
 	</div>
 </section>

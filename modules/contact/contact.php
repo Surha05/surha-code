@@ -22,7 +22,7 @@
 			<div class="col-md-3 col-sm-6 d-flex">
 				<div class="bg-light align-self-stretch box p-4 text-center">
 					<h3 class="mb-4">Instagram</h3>
-					<p><a href="https://www.instagram.com/surha_code/" target="_blank">@Surha_cade</a></p>
+					<p><a href="https://www.instagram.com/surha_code/" target="_blank">@Surha_code</a></p>
 				</div>
 			</div>
 		</div>
