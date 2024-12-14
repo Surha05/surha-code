@@ -7,7 +7,7 @@
   include 'modules/header/top-block.php';
   include 'modules/header/nav.php';
   include 'modules/title/title.php';
-  include 'modules/prices/prices.php';
+  include 'modules/prices/prices-page.php';
   include 'modules/footer/footer.php';
 ?>
   <!-- loader -->
