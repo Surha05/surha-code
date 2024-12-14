@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
   <head>
     <title>Kiddos - Free Bootstrap 4 Template by Colorlib</title>
     <meta charset="utf-8">

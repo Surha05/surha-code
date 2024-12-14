@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <?php
   $title__block = 'О нас';
   $bread__crumb = 'о нас';
