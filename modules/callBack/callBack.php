@@ -6,14 +6,14 @@
           <h2 class="mb-4">Остались вопросы?</h2>
           <p>Если вас что то заинтересовало и у вас остались вопросы, оставьте свой номер и мы перезвоним вам в ближайшее время.</p>
         </div>
-        <form action="#" class="appointment-form ftco-animate">
+        <form id="callback-form" class="appointment-form ftco-animate">
           <div class="d-md-flex">
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Имя">
+              <input class="form-control" id="inp-name" placeholder="Имя">
             </div>
 
             <div class="form-group ml-md-4">
-              <input type="text" class="form-control" placeholder="Телефон">
+              <input class="form-control" id="inp-tel" placeholder="Телефон">
             </div>
           </div>
           <div class="d-md-flex">
@@ -21,11 +21,11 @@
               <div class="form-field">
                 <div class="select-wrap">
                   <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                  <select class="form-control">
-                    <option value="">Курс</option>
-                    <option value="">HTML и CSS</option>
-                    <option value="">Javacript</option>
-                    <option value="">Node.js</option>
+                  <select class="form-control" id="inp-course">
+                    <option value="Не выбрано">Курс</option>
+                    <option value="HTML и CSS">HTML и CSS</option>
+                    <option value="Javacript">Javacript</option>
+                    <option value="Node.js">Node.js</option>
                   </select>
                 </div>
               </div>
@@ -34,11 +34,11 @@
               <div class="form-field">
                 <div class="select-wrap">
                   <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                  <select class="form-control">
-                    <option value="">Смена</option>
-                    <option value="">Утренняя смена</option>
-                    <option value="">Обеденная смена</option>
-                    <option value="">Вечерняя смена</option>
+                  <select class="form-control" id="inp-smena">
+                    <option value="не выбрано">Смена</option>
+                    <option value="Утренняя">Утренняя смена</option>
+                    <option value="Обеденная">Обеденная смена</option>
+                    <option value="Вечерняя">Вечерняя смена</option>
                   </select>
                 </div>
               </div>
@@ -49,12 +49,12 @@
               <div class="form-field">
                 <div class="select-wrap">
                   <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                  <select class="form-control">
-                    <option value="">Форма обучения</option>
-                    <option value="">В группе</option>
-                    <option value="">Индивидуальное</option>
-                    <option value="">Онлайн</option>
-                    <option value="">Индивидуальное Онлайн</option>
+                  <select class="form-control" id="inp-form-education">
+                    <option value="не выбрано">Форма обучения</option>
+                    <option value="В группе">В группе</option>
+                    <option value="Индивидуальное">Индивидуальное</option>
+                    <option value="Онлайн">Онлайн</option>
+                    <option value="Индивидуальное Онлайн">Индивидуальное Онлайн</option>
                   </select>
                 </div>
               </div>
@@ -62,12 +62,13 @@
           </div>
           <div class="d-md-flex">
             <div class="form-group">
-              <textarea class="form-control" placeholder="Комментарий"></textarea>
+              <textarea class="form-control" id="inp-comment" placeholder="Комментарий"></textarea>
             </div>
           </div>
-          <p class="button text-center"><a href="/prices.php" class="btn btn-secondary px-4 py-3">Отправить</a></p>
+          <p class="button text-center"><a href="/prices.php" class="btn btn-secondary px-4 py-3" id="btn-send">Отправить</a></p>
         </form>
       </div>
     </div>
   </div>
 </section>
+<script src="/modules/callBack/callback.js"></script>
