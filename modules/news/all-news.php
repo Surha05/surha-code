@@ -63,6 +63,6 @@
 					</div>
 				</div>
 			</div>
-			<a href="/blog.php" class="mr-2">Смотреть все новости</a>
+			<!-- <a href="/blog.php" class="mr-2">Смотреть все новости</a> -->
 		</div>
 	</section>
