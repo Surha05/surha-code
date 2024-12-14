@@ -16,7 +16,7 @@
 						<div class="px-4">
 							<p>Включает в себя обучение в классе, 3 раза в неделю, по 2 академических часа. Группа из 5-6 человек.</p>
 						</div>
-						<p class="button text-center"><a href="/prices.php" class="btn btn-primary px-4 py-3">Подробнее</a></p>
+						<!-- <p class="button text-center"><a href="/prices.php" class="btn btn-primary px-4 py-3">Подробнее</a></p> -->
 					</div>
 				</div>
 				<div class="col-md-6 ftco-animate mb-4">
@@ -31,7 +31,7 @@
 						<div class="px-4">
 							<p>Онлайн обучение представляет собой дистанционное обучение через Интернет в прямом эфире.</p>
 						</div>
-						<p class="button text-center"><a href="/prices.php" class="btn btn-secondary px-4 py-3">Подробнее</a></p>
+						<!-- <p class="button text-center"><a href="/prices.php" class="btn btn-secondary px-4 py-3">Подробнее</a></p> -->
 					</div>
 				</div>
 				<div class="col-md-6 ftco-animate">
@@ -46,7 +46,7 @@
 						<div class="px-4">
 							<p>Включает в себя учебу в классе из 2 или 3 человек группе, что дабавляет лучшее освоение материала.</p>
 						</div>
-						<p class="button text-center"><a href="/prices.php" class="btn btn-tertiary px-4 py-3">Подробнее</a></p>
+						<!-- <p class="button text-center"><a href="/prices.php" class="btn btn-tertiary px-4 py-3">Подробнее</a></p> -->
 					</div>
 				</div>
 				<div class="col-md-6 ftco-animate">
@@ -61,7 +61,7 @@
 						<div class="px-4">
 							<p>Включает в себя учебу онлайн из 2 или 3 человек группе, что дабавляет лучшее освоение материала.</p>
 						</div>
-						<p class="button text-center"><a href="/prices.php" class="btn btn-tertiary px-4 py-3">Подробнее</a></p>
+						<!-- <p class="button text-center"><a href="/prices.php" class="btn btn-tertiary px-4 py-3">Подробнее</a></p> -->
 					</div>
 				</div>
 
