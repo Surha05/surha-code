@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ru" prefix="og: http://ogp.me/ns#">
   <head>
     <title>Kiddos - Free Bootstrap 4 Template by Colorlib</title>
     <meta charset="utf-8">

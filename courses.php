@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ru" prefix="og: http://ogp.me/ns#">
   <?php
   $title_page = 'Курсы';
   $title__block = 'Наши Курсы';
   $bread__crumb = 'Курсы';
+  $og_title = 'Курсы школы Surha-Code';
+  $og_desc = 'Выберите подходящий для вас курс и ворвитесь в мир IT вместе со школой Surha-Code';
   include 'modules/head/head.php';
   include 'modules/header/top-block.php';
   include 'modules/header/nav.php';

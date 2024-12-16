@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ru" prefix="og: http://ogp.me/ns#">
   <head>
   <?php
   $title_page = 'Новости';
   $title__block = 'Наши Новости';
 	$bread__crumb = 'новости';
+  $og_title = 'Новости школы Surha-Code';
+  $og_desc = 'Читайте новости о школе Surha-Code и узнайте нас поближе';
   include 'modules/head/head.php';
   include 'modules/header/top-block.php';
   include 'modules/header/nav.php';

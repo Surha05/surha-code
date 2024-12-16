@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ru" prefix="og: http://ogp.me/ns#">
 <?php
   $title_page = 'Ученики';
 	$title__block = 'Наши Ученики';
 	$bread__crumb = 'ученики';
+  $og_title = 'Ученики школы Surha-Code';
+  $og_desc = 'Познакомьтесь с учениками и выпускниками школы Surha-Code';
   include 'modules/head/head.php';
   include 'modules/header/top-block.php';
   include 'modules/header/nav.php';

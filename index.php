@@ -1,6 +1,10 @@
 <!DOCTYPE html>
-<html lang="ru">
-<?php include 'modules/head/head.php'; ?>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<?php 
+$og_title = 'Школа программирования Surha-Code';
+$og_desc = 'Обучаем созданию сайтов, приложений и браузерных игр в Дербенте и Онлайн';
+include 'modules/head/head.php'; 
+?>
 
 <body>
 	<?php
