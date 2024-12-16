@@ -1,7 +1,7 @@
 (function(){
   const form = document.querySelector('#callback-form');
   const name = form.querySelector('#inp-name')
-  const tel = form.querySelector('#inp-tel')
+  const tel = form.querySelector('#inp-tel') 
   const course = form.querySelector('#inp-course')
   const smena = form.querySelector('#inp-smena')
   const formEducation = form.querySelector('#inp-form-education')

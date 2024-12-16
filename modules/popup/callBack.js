@@ -1,4 +1,5 @@
 (function(){
+    const wrapper = document.querySelector('#callback-popup')
     const form = document.querySelector('#popup-form');
     const name = form.querySelector('#inp-name')
     const tel = form.querySelector('#inp-tel')
@@ -28,7 +29,8 @@
       })
         .then((res) => {
           form.reset();
-          alert('Мы вам перезвоним в ближайшее время')
+          alert('Мы вам перезвоним в ближайшее время');
+          wrapper.classList.remove('active');
         })
       .catch(() => {
         alert('Произошла ошибка. Повторите еще раз')
