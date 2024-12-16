@@ -2800,7 +2800,9 @@ input[type="button"].btn-block {
 .btn-lg + .dropdown-toggle-split, .btn-group-lg > .btn + .dropdown-toggle-split {
   padding-right: 0.75rem;
   padding-left: 0.75rem; }
-
+.students__h2{
+  font-size: 30px;
+}
 .btn-group-vertical {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
