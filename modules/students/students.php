@@ -5,10 +5,52 @@
 			<div class="col-md-6 col-lg-3 ftco-animate">
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
-						<div class="img align-self-stretch" style="background-image: url(images/students/page/amir.jpg);"></div>
+						<div class="img align-self-stretch" style="background-image: url(images/students/page/khasan.jpg);"></div>
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Хасан</h3>
+						<span class="position mb-2">Javascript, Node.js</span>
+						<div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch" style="background-image: url(images/students/page/imam.jpg);"></div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Имам</h3>
+						<span class="position mb-2">Javascript, Node.js</span>
+						<div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch" style="background-image: url(images/students/page/isa-1.jpg);"></div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Иса</h3>
+						<span class="position mb-2">Javascript, Node.js</span>
+						<div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch" style="background-image: url(images/students/page/nasrulla.jpg);"></div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Насрулла</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
 						<div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
