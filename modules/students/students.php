@@ -209,6 +209,20 @@
 			<div class="col-md-6 col-lg-3 ftco-animate">
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch" style="background-image: url(images/students/page/shalbuz.jpg);"></div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Шингаров Шалбуз</h3>
+						<span class="position mb-2">HTML, CSS, Javascript</span>
+						<div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch" style="background-image: url(images/students/page/amirkhan.jpg);"></div>
 					</div>
 					<div class="text pt-3 text-center">
