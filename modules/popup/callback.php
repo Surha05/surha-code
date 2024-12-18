@@ -1,8 +1,7 @@
 <section class="popup-wrapper" id="callback-popup">
   <div class="popup-container bg-primary">
-    <div class="heading-section heading-section-white ftco-animate mb-5">
-      <h2 class="mb-4">Остались вопросы?</h2>
-      <p>Если вас что то заинтересовало и у вас остались вопросы, оставьте свой номер и мы перезвоним вам в ближайшее время.</p>
+    <div class="heading-section heading-section-white ftco-animate mb-2">
+      <h2 class="mb-2">Мы вам перезвоним</h2>
     </div>
     <form id="popup-form" class="appointment-form ftco-animate">
       <div class="d-md-flex">
