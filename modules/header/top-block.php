@@ -8,7 +8,7 @@
             <span class="text">Дербент, Пушкина 68</span>
           </div>
 
-          <div class="col-lg-3 col-6 pr-4 d-flex topper align-items-center">
+          <div class="col-lg-3 col-6 pr-0 d-flex topper align-items-center">
             <div class="icon bg-secondary mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
             <a href="tel:+79224338833">
               <span class="text">8(922)433-88-33</span></a>

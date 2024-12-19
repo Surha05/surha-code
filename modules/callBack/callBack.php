@@ -2,8 +2,8 @@
   <div class="container">
     <div class="row justify-content-end">
       <div class="col-md-6 py-5 px-md-5 bg-primary">
-        <div class="heading-section heading-section-white ftco-animate mb-5">
-          <h2 class="mb-4">Остались вопросы?</h2>
+        <div class="heading-section heading-section-white ftco-animate mb-3">
+          <h2 class="mb-3">Остались вопросы?</h2>
           <p>Если вас что то заинтересовало и у вас остались вопросы, оставьте свой номер и мы перезвоним вам в ближайшее время.</p>
         </div>
         <form id="callback-form" class="appointment-form ftco-animate">
