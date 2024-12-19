@@ -10,9 +10,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Хасан</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -24,9 +24,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Абдуррахман</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -38,9 +38,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Амир</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -52,9 +52,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Беслан</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -66,9 +66,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Фарман</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -80,9 +80,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Джабраил</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -94,9 +94,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Незер</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -108,9 +108,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Саид</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -122,8 +122,8 @@
 					<div class="text pt-3 text-center">
 						<h3>Шалбуз</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
-							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						<!-- <div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p> -->
 						</div>
 					</div>
 				</div>
@@ -136,9 +136,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Заур</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -150,9 +150,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Имам</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -164,8 +164,8 @@
 					<div class="text pt-3 text-center">
 						<h3>Иса</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
-							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						<!-- <div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p> -->
 						</div>
 					</div>
 				</div>
@@ -178,9 +178,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Насрулла</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
