@@ -123,8 +123,8 @@
 						<h3>Шалбуз</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
 						<!-- <div class="faded">
-							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p> -->
-						</div>
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p> 
+						</div>-->
 					</div>
 				</div>
 			</div>
@@ -165,8 +165,8 @@
 						<h3>Иса</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
 						<!-- <div class="faded">
-							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p> -->
-						</div>
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p> 
+						</div>-->
 					</div>
 				</div>
 			</div>
@@ -200,9 +200,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Гусейнов Амир</h3>
 						<span class="position mb-2">HTML, CSS, Javascript</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -214,9 +214,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Шингаров Шалбуз</h3>
 						<span class="position mb-2">HTML, CSS, Javascript</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -468,9 +468,9 @@
 					<div class="text pt-3 text-center">
 						<h3>Бахишев Беслан</h3>
 						<span class="position mb-2">HTML, CSS, Javascript</span>
-						<div class="faded">
+						<!-- <div class="faded">
 							<p>Начал очучение в сентябре 2023 года. Окончил курсы по языкам HTML, CSS и Javascript</p>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
