@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
-  <head>
   <?php
   $title_page = 'Новости';
   $title__block = 'Наши Новости';

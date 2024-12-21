@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
+  
+  
   <?php
   $title_page = 'Курсы';
   $title__block = 'Наши Курсы';
