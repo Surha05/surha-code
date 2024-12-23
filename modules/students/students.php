@@ -29,7 +29,7 @@
 						<h3>Саид</h3>
 						<span class="position mb-2">Javascript, Node.js</span>
 						<div class="faded">
-							<p>Поступил в сентябре 2023 года. Окончил курсы по языкам HTML, CSS и Javascript. Работает над сайтом мебели<a href="https://hulan05.ru" target="_blank">Hulan</a></p>
+							<p>Поступил в сентябре 2023 года. Окончил курсы по языкам HTML, CSS и Javascript. Работает над сайтом мебели <a href="https://hulan05.ru" target="_blank">Hulan</a></p>
 						</div>
 					</div>
 				</div>
@@ -463,6 +463,19 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Бахишев Беслан</h3>
+						<span class="position mb-2">HTML, CSS, Javascript</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch">
+						<img src="/images/students/page/abdulla.jpg" alt="Рамазанов Абдул" class="student-img">
+						</div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Рамазанов Абдул</h3>
 						<span class="position mb-2">HTML, CSS, Javascript</span>
 					</div>
 				</div>
