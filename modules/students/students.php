@@ -19,6 +19,48 @@
 			<div class="col-md-6 col-lg-3 ftco-animate">
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch" style="background-image: url(images/students/page/ramzan.jpg);"></div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Рамзан</h3>
+						<span class="position mb-2">Javascript, Node.js</span>
+						<!-- <div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						</div> -->
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch" style="background-image: url(images/students/page/marat.jpg);"></div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Марат</h3>
+						<span class="position mb-2">Javascript, Node.js</span>
+						<!-- <div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						</div> -->
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch" style="background-image: url(images/students/page/muhammad-d.jpg);"></div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Мухаммад</h3>
+						<span class="position mb-2">Javascript, Node.js</span>
+						<!-- <div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						</div> -->
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch" style="background-image: url(images/students/page/abdurrakhman.jpg);"></div>
 					</div>
 					<div class="text pt-3 text-center">
