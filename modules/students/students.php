@@ -11,7 +11,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Беслан</h3>
-						<span class="position mb-2">Javascript, Node.js</span>
+						<span class="position mb-2">Javascript, Node.js, React</span>
 						<div class="faded">
 							<p>Поступил в сентябре 2023 года. Окончил курсы по языкам HTML, CSS и Javascript. Работает над проектом <a href=""  target="_blank">M-trade</a>, <a href="https://surha.ru"  target="_blank">Surha.ru</a> и этим сайтом.</p>
 						</div>
@@ -27,7 +27,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Саид</h3>
-						<span class="position mb-2">Javascript, Node.js</span>
+						<span class="position mb-2">Javascript, Node.js, React</span>
 						<div class="faded">
 							<p>Поступил в сентябре 2023 года. Окончил курсы по языкам HTML, CSS и Javascript. Работает над сайтом мебели <a href="https://hulan05.ru" target="_blank">Hulan</a></p>
 						</div>
@@ -43,7 +43,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Джабраил</h3>
-						<span class="position mb-2">Javascript, Node.js</span>
+						<span class="position mb-2">Javascript, Node.js, React</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
 						</div> -->
@@ -59,7 +59,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Амир</h3>
-						<span class="position mb-2">Javascript, Node.js</span>
+						<span class="position mb-2">Javascript, Node.js, React</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
 						</div> -->
@@ -75,7 +75,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Шалбуз</h3>
-						<span class="position mb-2">Javascript, Node.js</span>
+						<span class="position mb-2">Javascript, Node.js, React</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p> 
 						</div>-->
@@ -258,6 +258,38 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch">
+						<img src="/images/students/page/ibrahim.jpg" alt="" class="student-img">
+						</div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Ибрахим</h3>
+						<span class="position mb-2">HTML, CSS, Javascript</span>
+						<!-- <div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						</div> -->
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch">
+						<img src="/images/students/page/galib.jpg" alt="" class="student-img">
+						</div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Галиб</h3>
+						<span class="position mb-2">HTML, CSS, Javascript</span>
+						<!-- <div class="faded">
+							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
+						</div> -->
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
@@ -275,7 +307,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Гусейнов Амир</h3>
-						<span class="position mb-2">HTML, CSS, Javascript</span>
+						<span class="position mb-2">HTML, CSS, Javascript, Node.js</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
 						</div> -->
@@ -291,7 +323,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Шингаров Шалбуз</h3>
-						<span class="position mb-2">HTML, CSS, Javascript</span>
+						<span class="position mb-2">HTML, CSS, Javascript, Node.js</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
 						</div> -->
@@ -385,7 +417,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Сефиев Джабраил</h3>
-						<span class="position mb-2">HTML, CSS, Javascript</span>
+						<span class="position mb-2">HTML, CSS, Javascript, Node.js</span>
 					</div>
 				</div>
 			</div>
@@ -437,7 +469,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Куребеков Саид</h3>
-						<span class="position mb-2">HTML, CSS, Javascript</span>
+						<span class="position mb-2">HTML, CSS, Javascript, Node.js</span>
 					</div>
 				</div>
 			</div>
@@ -450,7 +482,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Мехтиев Тегран</h3>
-						<span class="position mb-2">HTML, CSS, Javascript</span>
+						<span class="position mb-2">HTML, CSS, Javascript, Node.js</span>
 					</div>
 				</div>
 			</div>
@@ -463,7 +495,7 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Бахишев Беслан</h3>
-						<span class="position mb-2">HTML, CSS, Javascript</span>
+						<span class="position mb-2">HTML, CSS, Javascript, Node.js</span>
 					</div>
 				</div>
 			</div>
