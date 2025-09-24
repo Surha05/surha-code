@@ -6,24 +6,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/ahmed.jpg" alt="" class="student-img">
+						<img src="/images/students/page/ibrahim-3.jpg" alt="Шихабидов Ибрахим" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Ахмед</h3>
-						<span class="position mb-2">Javascript, Node.js, React</span>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3 ftco-animate">
-				<div class="staff">
-					<div class="img-wrap d-flex align-items-stretch">
-						<div class="img align-self-stretch">
-						<img src="/images/students/page/ahad.jpg" alt="" class="student-img">
-						</div>
-					</div>
-					<div class="text pt-3 text-center">
-						<h3>Ахад</h3>
+						<h3>Шихабидов Ибрахим</h3>
 						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
 					</div>
 				</div>
@@ -32,11 +19,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/seidaga.jpg" alt="" class="student-img">
+						<img src="/images/students/page/islam.jpg" alt="Тагиров Ислам" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Сеидага</h3>
+						<h3>Тагиров Ислам</h3>
 						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
 					</div>
 				</div>
@@ -45,11 +32,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/murad.jpg" alt="" class="student-img">
+						<img src="/images/students/page/ramadan.jpg" alt="Гусейнов Рамадан" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Мурад</h3>
+						<h3>Гусейнов Рамадан</h3>
 						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
 					</div>
 				</div>
@@ -58,11 +45,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/jamal.jpg" alt="" class="student-img">
+						<img src="/images/students/page/sultan.jpg" alt="Алиев Султан" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Джамал</h3>
+						<h3>Алиев Султан</h3>
 						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
 					</div>
 				</div>
@@ -71,11 +58,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/jafer.jpg" alt="" class="student-img">
+						<img src="/images/students/page/bahram.jpg" alt="Мирзоев Бахрам" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Джафер</h3>
+						<h3>Мирзоев Бахрам</h3>
 						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
 					</div>
 				</div>
@@ -84,11 +71,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/ibrahim-2.jpg" alt="" class="student-img">
+						<img src="/images/students/page/ahmed.jpg" alt="Мисриханов Ахмед" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Ибрахим</h3>
+						<h3>Мисриханов Ахмед</h3>
 						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
 					</div>
 				</div>
@@ -97,11 +84,76 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/imam.jpg" alt="" class="student-img">
+						<img src="/images/students/page/seidaga.jpg" alt="Сеидов Сеидага" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Имам</h3>
+						<h3>Сеидов Сеидага</h3>
+						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch">
+						<img src="/images/students/page/murad.jpg" alt="Абдулхаликов Мурад" class="student-img">
+						</div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Абдулхаликов Мурад</h3>
+						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch">
+						<img src="/images/students/page/jamal.jpg" alt="Пирмагомедов Джамал" class="student-img">
+						</div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Пирмагомедов Джамал</h3>
+						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch">
+						<img src="/images/students/page/jafer.jpg" alt="Курбанов Джахфер" class="student-img">
+						</div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Курбанов Джахфер</h3>
+						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch">
+						<img src="/images/students/page/ibrahim-2.jpg" alt="Биршахов Ибрахим" class="student-img">
+						</div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Биршахов Ибрахим</h3>
+						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch">
+						<img src="/images/students/page/imam.jpg" alt="Хваджаев Имамедин" class="student-img">
+						</div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Хваджаев Имамедин</h3>
 						<span class="position mb-2">Javascript, Node.js, REACT.js</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
@@ -113,11 +165,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/nasrulla.jpg" alt="" class="student-img">
+						<img src="/images/students/page/nasrulla.jpg" alt="Даргаев Насруллах" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Насрулла</h3>
+						<h3>Даргаев Насруллах</h3>
 						<span class="position mb-2">Javascript, Node.js, REACT.js</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
@@ -129,11 +181,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-							<img src="/images/students/page/khasan.jpg" alt="" class="student-img">
+							<img src="/images/students/page/khasan.jpg" alt="Вагабов Хасан" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Хасан</h3>
+						<h3>Вагабов Хасан</h3>
 						<span class="position mb-2">Javascript, Node.js, REACT.js</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
@@ -145,11 +197,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/marat.jpg" alt="" class="student-img">
+						<img src="/images/students/page/marat.jpg" alt="Сагидов Марат" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Марат</h3>
+						<h3>Сагидов Марат</h3>
 						<span class="position mb-2">JAVASCRIPT, REACT.JS</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
@@ -161,11 +213,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/farman.jpg" alt="" class="student-img">
+						<img src="/images/students/page/farman.jpg" alt="Уружбеков Фарман" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Фарман</h3>
+						<h3>Уружбеков Фарман</h3>
 						<span class="position mb-2">JAVASCRIPT, REACT.JS</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
@@ -177,11 +229,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-						<img src="/images/students/page/nezer.jpg" alt="" class="student-img">
+						<img src="/images/students/page/nezer.jpg" alt="Керимханов Незер" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Незер</h3>
+						<h3>Керимханов Незер</h3>
 						<span class="position mb-2">JAVASCRIPT, REACT.JS</span>
 						<!-- <div class="faded">
 							<p>2009 года рождения. Поступил в сентябре 2023 года. Прошел курсы по языкам HTML, CSS и Javascript</p>
@@ -285,11 +337,11 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
-							<img src="/images/students/page/ramzan.jpg" alt="" class="student-img">
+							<img src="/images/students/page/ramzan.jpg" alt="Джамалов Рамзан" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
-						<h3>Рамзан</h3>
+						<h3>Джамалов Рамзан</h3>
 						<span class="position mb-2">HTML, CSS, Javascript</span>
 					</div>
 				</div>
@@ -329,19 +381,6 @@
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Заур</h3>
-						<span class="position mb-2">HTML, CSS, Javascript</span>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3 ftco-animate">
-				<div class="staff">
-					<div class="img-wrap d-flex align-items-stretch">
-						<div class="img align-self-stretch">
-						<img src="/images/students/page/ibrahim.jpg" alt="" class="student-img">
-						</div>
-					</div>
-					<div class="text pt-3 text-center">
-						<h3>Ибрахим</h3>
 						<span class="position mb-2">HTML, CSS, Javascript</span>
 					</div>
 				</div>
