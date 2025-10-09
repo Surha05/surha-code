@@ -6,11 +6,37 @@
 				<div class="staff">
 					<div class="img-wrap d-flex align-items-stretch">
 						<div class="img align-self-stretch">
+						<img src="/images/students/page/murad-musaev.jpg" alt="Мусаев Мурад" class="student-img">
+						</div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Мусаев Мурад</h3>
+						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch">
 						<img src="/images/students/page/ibrahim-3.jpg" alt="Шихабидов Ибрахим" class="student-img">
 						</div>
 					</div>
 					<div class="text pt-3 text-center">
 						<h3>Шихабидов Ибрахим</h3>
+						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="staff">
+					<div class="img-wrap d-flex align-items-stretch">
+						<div class="img align-self-stretch">
+						<img src="/images/students/page/movsum.jpg" alt="Аскеров Мовсум" class="student-img">
+						</div>
+					</div>
+					<div class="text pt-3 text-center">
+						<h3>Аскеров Мовсум</h3>
 						<span class="position mb-2">HTML, CSS, JAVASCRIPT</span>
 					</div>
 				</div>
